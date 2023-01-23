@@ -1,0 +1,72 @@
+2022-03-02
+	Price Open: $37705
+	Price Close: $37705
+	Price High: $37789
+	Price Low: $37696
+--------------------
+2022-03-04
+	Price Open: $38324
+	Price Close: $38324
+	Price High: $38405
+	Price Low: $38311
+--------------------
+2022-03-03
+	Price Open: $37940
+	Price Close: $37941
+	Price High: $38023
+	Price Low: $37930
+--------------------
+2022-03-05
+	Price Open: $38844
+	Price Close: $38845
+	Price High: $38923
+	Price Low: $38827
+--------------------
+2022-03-06
+	Price Open: $39024
+	Price Close: $39025
+	Price High: $39102
+	Price Low: $39006
+--------------------
+2022-03-09
+	Price Open: $40346
+	Price Close: $40346
+	Price High: $40418
+	Price Low: $40318
+--------------------
+2022-03-07
+	Price Open: $39574
+	Price Close: $39575
+	Price High: $39650
+	Price Low: $39552
+--------------------
+2022-03-26
+	Price Open: $46316
+	Price Close: $46316
+	Price High: $46361
+	Price Low: $46244
+--------------------
+2022-03-10
+	Price Open: $40447
+	Price Close: $40447
+	Price High: $40518
+	Price Low: $40418
+--------------------
+2022-03-08
+	Price Open: $39706
+	Price Close: $39707
+	Price High: $39781
+	Price Low: $39683
+--------------------
+2022-03-11
+	Price Open: $40808
+	Price Close: $40809
+	Price High: $40878
+	Price Low: $40777
+--------------------
+2022-03-24
+	Price Open: $45407
+	Price Close: $45407
+	Price High: $45456
+	Price Low: $45342
+--------------------

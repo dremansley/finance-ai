@@ -1,0 +1,108 @@
+2022-02-01
+	Price Open: $34546
+	Price Close: $34537
+	Price High: $34703
+	Price Low: $34517
+--------------------
+2022-02-02
+	Price Open: $34847
+	Price Close: $34839
+	Price High: $35003
+	Price Low: $34815
+--------------------
+2022-02-03
+	Price Open: $35437
+	Price Close: $35429
+	Price High: $35590
+	Price Low: $35398
+--------------------
+2022-02-04
+	Price Open: $35840
+	Price Close: $35832
+	Price High: $35991
+	Price Low: $35797
+--------------------
+2022-02-06
+	Price Open: $36409
+	Price Close: $36403
+	Price High: $36558
+	Price Low: $36360
+--------------------
+2022-02-08
+	Price Open: $37396
+	Price Close: $37390
+	Price High: $37540
+	Price Low: $37336
+--------------------
+2022-02-05
+	Price Open: $36239
+	Price Close: $36233
+	Price High: $36389
+	Price Low: $36192
+--------------------
+2022-02-07
+	Price Open: $37002
+	Price Close: $36996
+	Price High: $37149
+	Price Low: $36946
+--------------------
+2022-02-09
+	Price Open: $37771
+	Price Close: $37766
+	Price High: $37914
+	Price Low: $37707
+--------------------
+2022-02-10
+	Price Open: $38290
+	Price Close: $38285
+	Price High: $38431
+	Price Low: $38220
+--------------------
+2022-02-18
+	Price Open: $41664
+	Price Close: $41663
+	Price High: $41790
+	Price Low: $41558
+--------------------
+2022-02-11
+	Price Open: $38590
+	Price Close: $38586
+	Price High: $38729
+	Price Low: $38517
+--------------------
+2022-02-19
+	Price Open: $42056
+	Price Close: $42056
+	Price High: $42180
+	Price Low: $41946
+--------------------
+2022-02-20
+	Price Open: $42302
+	Price Close: $42301
+	Price High: $42424
+	Price Low: $42188
+--------------------
+2022-02-17
+	Price Open: $41247
+	Price Close: $41245
+	Price High: $41374
+	Price Low: $41145
+--------------------
+2022-02-13
+	Price Open: $39269
+	Price Close: $39265
+	Price High: $39405
+	Price Low: $39188
+--------------------
+2022-02-12
+	Price Open: $39243
+	Price Close: $39239
+	Price High: $39379
+	Price Low: $39163
+--------------------
+2022-02-23
+	Price Open: $43474
+	Price Close: $43475
+	Price High: $43592
+	Price Low: $43348
+--------------------

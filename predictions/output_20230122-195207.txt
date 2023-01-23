@@ -1,0 +1,78 @@
+2022-11-30
+	Price Open: $16285
+	Price Close: $16303
+	Price High: $16347
+	Price Low: $16228
+--------------------
+2022-11-29
+	Price Open: $16230
+	Price Close: $16247
+	Price High: $16292
+	Price Low: $16172
+--------------------
+2022-12-01
+	Price Open: $16344
+	Price Close: $16360
+	Price High: $16404
+	Price Low: $16287
+--------------------
+2022-12-03
+	Price Open: $16503
+	Price Close: $16519
+	Price High: $16562
+	Price Low: $16448
+--------------------
+2022-12-02
+	Price Open: $16421
+	Price Close: $16438
+	Price High: $16481
+	Price Low: $16366
+--------------------
+2022-12-04
+	Price Open: $16532
+	Price Close: $16547
+	Price High: $16590
+	Price Low: $16477
+--------------------
+2022-12-05
+	Price Open: $16582
+	Price Close: $16597
+	Price High: $16640
+	Price Low: $16528
+--------------------
+2022-12-14
+	Price Open: $17200
+	Price Close: $17209
+	Price High: $17250
+	Price Low: $17151
+--------------------
+2022-12-16
+	Price Open: $17316
+	Price Close: $17325
+	Price High: $17365
+	Price Low: $17269
+--------------------
+2022-12-08
+	Price Open: $16795
+	Price Close: $16808
+	Price High: $16850
+	Price Low: $16743
+--------------------
+2022-12-15
+	Price Open: $17259
+	Price Close: $17268
+	Price High: $17308
+	Price Low: $17211
+--------------------
+2022-12-07
+	Price Open: $16747
+	Price Close: $16760
+	Price High: $16803
+	Price Low: $16694
+--------------------
+2022-12-06
+	Price Open: $16691
+	Price Close: $16704
+	Price High: $16747
+	Price Low: $16637
+--------------------

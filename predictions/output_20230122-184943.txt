@@ -1,0 +1,72 @@
+2021-05-02
+	Price Open: $32132
+	Price Close: $31880
+	Price High: $33007
+	Price Low: $30955
+--------------------
+2021-05-03
+	Price Open: $33021
+	Price Close: $32777
+	Price High: $33868
+	Price Low: $31880
+--------------------
+2021-05-05
+	Price Open: $34663
+	Price Close: $34435
+	Price High: $35460
+	Price Low: $33588
+--------------------
+2021-05-04
+	Price Open: $33770
+	Price Close: $33534
+	Price High: $34595
+	Price Low: $32660
+--------------------
+2021-05-06
+	Price Open: $35812
+	Price Close: $35594
+	Price High: $36573
+	Price Low: $34783
+--------------------
+2021-05-08
+	Price Open: $37064
+	Price Close: $36857
+	Price High: $37786
+	Price Low: $36085
+--------------------
+2021-05-07
+	Price Open: $36921
+	Price Close: $36713
+	Price High: $37648
+	Price Low: $35936
+--------------------
+2021-05-09
+	Price Open: $38634
+	Price Close: $38442
+	Price High: $39308
+	Price Low: $37719
+--------------------
+2021-05-11
+	Price Open: $40282
+	Price Close: $40105
+	Price High: $40905
+	Price Low: $39432
+--------------------
+2021-05-10
+	Price Open: $39532
+	Price Close: $39348
+	Price High: $40178
+	Price Low: $38652
+--------------------
+2021-05-12
+	Price Open: $40980
+	Price Close: $40810
+	Price High: $41582
+	Price Low: $40159
+--------------------
+2021-05-14
+	Price Open: $43437
+	Price Close: $43289
+	Price High: $43962
+	Price Low: $42714
+--------------------

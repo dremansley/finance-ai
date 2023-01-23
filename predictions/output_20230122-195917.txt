@@ -1,0 +1,24 @@
+2021-01-23
+	Price Open: $1213
+	Price Close: $1214
+	Price High: $1216
+	Price Low: $1211
+--------------------
+2021-01-25
+	Price Open: $1270
+	Price Close: $1271
+	Price High: $1273
+	Price Low: $1267
+--------------------
+2021-01-24
+	Price Open: $1235
+	Price Close: $1235
+	Price High: $1237
+	Price Low: $1232
+--------------------
+2021-01-26
+	Price Open: $1295
+	Price Close: $1296
+	Price High: $1298
+	Price Low: $1291
+--------------------
